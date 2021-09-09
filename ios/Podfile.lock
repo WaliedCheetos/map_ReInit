@@ -1,0 +1,37 @@
+PODS:
+  - Flutter (1.0.0)
+  - here_sdk (4.8.3.0.6497.release):
+    - Flutter
+  - images_picker (0.0.1):
+    - Flutter
+    - ZLPhotoBrowser (= 4.1.5)
+  - ZLPhotoBrowser (4.1.5):
+    - ZLPhotoBrowser/Core (= 4.1.5)
+  - ZLPhotoBrowser/Core (4.1.5)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - here_sdk (from `.symlinks/plugins/here_sdk/ios`)
+  - images_picker (from `.symlinks/plugins/images_picker/ios`)
+
+SPEC REPOS:
+  trunk:
+    - ZLPhotoBrowser
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  here_sdk:
+    :path: ".symlinks/plugins/here_sdk/ios"
+  images_picker:
+    :path: ".symlinks/plugins/images_picker/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+  here_sdk: 78411afc5a504af9480690e1eb8bea32df6526ca
+  images_picker: 634f7663456c00364e7d1a16116c2cc2562ff50f
+  ZLPhotoBrowser: 809878607ea92e9411c580797ce1be23896b8d7f
+
+PODFILE CHECKSUM: 9454f986cdc14825d1c7c94582a774ccf7afd8b1
+
+COCOAPODS: 1.10.1
